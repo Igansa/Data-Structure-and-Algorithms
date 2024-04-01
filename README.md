@@ -1,4 +1,5 @@
 # Data-Structure-and-Algorithms
+This program aims to solve ten different problems, using 1-50 numbers as a value of X.
 ![image](https://github.com/Igansa/Data-Structure-and-Algorithms/assets/114296399/beb090a6-972f-4c50-ac60-dc88595faa9c)
 ![image](https://github.com/Igansa/Data-Structure-and-Algorithms/assets/114296399/c01ffcb7-eaad-4396-bb71-ddb201d13fae)
 ![image](https://github.com/Igansa/Data-Structure-and-Algorithms/assets/114296399/f3ac3e11-fd43-42d1-8233-3d79c3583389)
